@@ -5,7 +5,7 @@
   />
 </h1>
 
-**AI Researcher (Part-time) at IDRI |  B.Sc. Computer Science (Data Science) • Year 3 AI | Data Science | Data Engineer | Computer Vision | Deep Learning**
+**B.Sc. Computer Science (Data Science) • Year 3 AI | Data Science | Data Engineer | Computer Vision | Deep Learning**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sitharath-srey-2249932b5/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](sitharothwhy@gmail.com)
