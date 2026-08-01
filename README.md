@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira Code&weight=600&size=36&duration=3000&pause=1500&color=000000&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Hi%2C+I'm+Srey+Sitharath+%F0%9F%91%8B"
+    src="https://readme-typing-svg.demolab.com?font=Fira Code+Mono&weight=600&size=36&duration=3000&pause=1500&color=000000&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Hi%2C+I'm+Srey+Sitharath+%F0%9F%91%8B"
     alt="Typing SVG"
   />
 </h1>
