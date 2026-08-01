@@ -1,10 +1,8 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&duration=150&pause=1200&color=00C2FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Hi%2C+I'm+Srey+Sitharath+%F0%9F%91%8B"
-      alt="Typing SVG"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=250&pause=2500&color=00C2FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Hi%2C+I'm+Srey+Sitharath+%F0%9F%91%8B"
+    alt="Typing SVG"
+  />
 </h1>
 
 **AI Researcher (Part-time) at IDRI |  B.Sc. Computer Science (Data Science) • Year 3 AI | Data Science | Data Engineer | Computer Vision | Deep Learning**
