@@ -1,14 +1,4 @@
--------------------------------------------------------
-
-                 THARITH
-
-      AI Researcher • AI • Data Engineering
-
-     
-
--------------------------------------------------------
-
-# Hi, I'm Srey Sitharath 👋
+# Hi, I'm Srey Sitharath 👋 (repeat)
 
 **AI Researcher (Part-time) at IDRI |  B.Sc. Computer Science (Data Science) • Year 3 AI | Data Science | Data Engineer | Computer Vision | Deep Learning**
 
